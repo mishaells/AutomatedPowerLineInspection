@@ -5,3 +5,8 @@ It includes an end-to-end pipeline covering data preprocessing, model training, 
 
 ## The project is still ongoing, wish us luck :)
 expected completion by early June 2026.
+
+Contents (coming soon)
+- Model implementations
+- Experimental results
+- Research paper
