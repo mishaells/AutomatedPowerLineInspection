@@ -4,3 +4,4 @@ The project explores and evaluates multiple models to identify the most effectiv
 It includes an end-to-end pipeline covering data preprocessing, model training, evaluation, and analysis.
 
 ## The project is still ongoing, wish us luck :)
+expected completion by early June 2026.
